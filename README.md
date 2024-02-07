@@ -4,7 +4,7 @@ This project is a simple Rock Paper Scissors game implemented using HTML, CSS, a
 
 ### How to Play
 1. Open the Below Link in a web browser.
-2. https://sriram629.github.io/Rock-Paper-Scissors-Game/rock.html
+2. https://pavanvenkatkumar.github.io/Rock-Paper-Scissor-Game/rock.html
 3. Click on one of the buttons representing rock, paper, or scissors to make your move.
 4. The computer will randomly select its move.
 5. The result of the round will be displayed, along with the current score.
